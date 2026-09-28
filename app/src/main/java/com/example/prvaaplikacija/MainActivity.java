@@ -1,13 +1,17 @@
 package com.example.prvaaplikacija;
 
-import android.os.Bundle;import android.view.View;import android.widget.Toast;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-import android.widget.Button;import com.google.android.material.snackbar.Snackbar;
+import android.widget.Button;
+
+import com.google.android.material.snackbar.Snackbar;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -27,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
-                showToast("Hello world!");
+                showToast("My first Android Studio application!");
             }
         });
 
