@@ -5,4 +5,6 @@
     <string name="button_1">Log in</string>
     <string name="ch_box_1">Zelim se prijaviti na obvestila</string>
     <string name="flb_opis">Test</string>
+    <string name="rb_1">Moski</string>
+    <string name="rb_2">Zenski</string>
 </resources>
