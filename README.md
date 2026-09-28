@@ -13,7 +13,11 @@ The project also demonstrates:
 - basic accessibility and UI positioning.
 The project was mainly created to practice the structure of an Android application and understand how Java code connects to UI elements defined in XML.
 
-<img width="253" height="514" alt="Screenshot 2026-09-28 164444" src="https://github.com/user-attachments/assets/0a5007e0-1a5a-46bf-a758-5bb3858cdf1c" /> <img width="252" height="514" alt="Screenshot 2026-09-28 164438" src="https://github.com/user-attachments/assets/d7887400-aa0b-495f-b66a-6e8279b5d13f" />
+<img width="253" height="514" alt="Screenshot 2026-09-28 164444" src="https://github.com/user-attachments/assets/0a5007e0-1a5a-46bf-a758-5bb3858cdf1c" /> <img width="252" height="514" alt="Screenshot 2026-09-28 164438" src="https://github.com/user-attachments/assets/d7887400-aa0b-495f-b66a-6e8279b5d13f" /> 
+<img width="253" height="514" alt="eeee" src="https://github.com/user-attachments/assets/a07ad08f-7c89-4edc-a216-37afe5fefca3" />
+
+
+
 
 
 
