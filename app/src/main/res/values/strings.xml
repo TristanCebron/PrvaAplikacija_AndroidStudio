@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrvaAplikacija</string>
+    <string name="text_1">Mobile application!</string>
+    <string name="text_2">Hello world!</string>
+    <string name="button_1">Log in</string>
+    <string name="ch_box_1">Zelim se prijaviti na obvestila</string>
+    <string name="flb_opis">Test</string>
+</resources>
