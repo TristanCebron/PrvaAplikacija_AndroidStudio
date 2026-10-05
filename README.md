@@ -1,4 +1,4 @@
-Android Studio – First Mobile Application
+#Android Studio – First Mobile Application
 
 This project was created as part of the Mobile Application Development – Assignment 1. The goal was to learn the basics of Android development using Java and Android Studio.
 The application started as a simple Hello World project and was gradually expanded with basic UI components and interactions. It uses a ConstraintLayout and includes multiple TextView elements, a Button, a CheckBox, and a FloatingActionButton.
